@@ -1,0 +1,5 @@
+array_ pop()##pop element off the end of array
+array_keys()##
+magic method:__invoke()
+#type:callable
+array_column()
