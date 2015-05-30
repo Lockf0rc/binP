@@ -3,7 +3,7 @@
 <head>
 </head>
 <body>
-<?=`cat a*`?>
+<?=`git status`?>
 </body>
 
 
