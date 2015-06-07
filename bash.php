@@ -3,7 +3,7 @@
 <head>
 </head>
 <body>
-<?=`git status`?>
+<?=`git pull`?>
 </body>
 
 
